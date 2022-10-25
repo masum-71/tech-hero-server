@@ -1,41 +1,41 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "JavaScript",
     "img": "https://itchief.ru/assets/images/covers/javascript-statements.png",
     "description": "JavaScript is the world's most popular programming language. JavaScript is the\tprogramming language of the Web. JavaScript is easy to learn.This tutorial will teach you\t\tJavaScript from basic to advanced.",
     "price": 150
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "React",
     "img": "https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg",
     "description": "Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more.",
     "price": 200
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Front End Development",
     "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png",
     "description": "This guide will help you navigate learning front-end development. It provides learning resources that I found effective in the past, along with supplementary explanations.",
     "price": 170
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Back End Development",
     "img": "https://s3.studytonight.com/curious/uploads/pictures/1631204081-106730.png",
     "description": "Make server-side software powerful and performant. Cover all the topics that expensive bootcamps teach (and more). Get the specialized skills and portfolio needed to start your career as a Back-End Software Engineer.",
     "price": 230
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Full stack Development",
     "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
     "description": "Learn both front-end and back-end development. Cover all the topics that expensive bootcamps teach (and more). Get the well-rounded skills and portfolio needed to start your career as a Full-Stack Software Engineer.",
     "price": 250
   },
   {
-    "id": 5,
+    "id": "6",
     "name": "Python",
     "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
     "description": "Python can be used for everything from web development to software development and data science applications",
